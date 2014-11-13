@@ -6,6 +6,10 @@ public class Joueur {//implements InterfaceJoueur{
 		MACHINE,
 		NOTYPE
 	}
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	private typeJoueur type;
 	private String nom;
